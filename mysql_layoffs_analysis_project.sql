@@ -1,4 +1,5 @@
 -- MySQL Layoffs Analysis Project
+-- Based on tutorial from Alex the Anayst, adapted for practice
 
 -- Data Cleaning
 -- 1. Remove Duplicates
